@@ -1,0 +1,13 @@
+Car
+Pezho
+5
+Skuline
+4000.0
+Solyaris
+1000.0
+Fiesta
+1000.0
+Supra
+500.0
+Astra
+100.0
